@@ -1,7 +1,7 @@
 <h1 align="center">Javascript 3 ForLoop</h1>
 <div align="center">
   <h3>
-    <a href="https://ande-glitch.github.io/JS-2-IF-ForLoop/">
+    <a href="https://ande-glitch.github.io/JS3-ForLoops/">
       Link to project
     </a>
   </h3>
