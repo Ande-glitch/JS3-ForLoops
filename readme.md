@@ -21,14 +21,11 @@
 Javascript orientated website with many features
 
 ## Features
-- BMI Calculator
-- Season corresponding to months
-- Javascript coded dropbox
-- Several calculations within textfields
+- Overview of completed tasks assigned by Teacher. 
 
 ## How To Use
 
-- Input values into several textfields thereafter click the corresponding button to gain results. 
+- In context of the assigned tasks, the inputs and values should be understood fully.
 
 ## Contact
 - GitHub [Ande-Glitch](https://github.com/Ande-glitch)
